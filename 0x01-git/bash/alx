@@ -1,6 +1,2 @@
 #!/bin/bash
-echo "ALX"
-
-ls
-clear
-
+echo "ALX School is so cool"
